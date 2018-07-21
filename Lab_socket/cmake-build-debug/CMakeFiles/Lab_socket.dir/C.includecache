@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhaoxuandong/CLionProjects/Lab_socket/client.c
+client.h
+/Users/zhaoxuandong/CLionProjects/Lab_socket/client.h
+sys/stat.h
+-
+fcntl.h
+-
+errno.h
+-
+netdb.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+pthread.h
+-
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+unistd.h
+-
+
+/Users/zhaoxuandong/CLionProjects/Lab_socket/client.h
+

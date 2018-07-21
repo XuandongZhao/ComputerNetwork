@@ -1,0 +1,4 @@
+/Users/zhaoxuandong/CLionProjects/Lab_socket/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zhaoxuandong/CLionProjects/Lab_socket/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhaoxuandong/CLionProjects/Lab_socket/cmake-build-debug/CMakeFiles/server.dir
+/Users/zhaoxuandong/CLionProjects/Lab_socket/cmake-build-debug/CMakeFiles/client.dir
